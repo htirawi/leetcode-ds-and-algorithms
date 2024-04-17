@@ -1,0 +1,22 @@
+{
+  "name": "js-ds-algorithms-challenges",
+  "version": "1.0.0",
+  "description": "Javascript challenges to practice Leetcode DS and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htirawi/leetcode-ds-and-algorithms.git"
+  },
+  "author": "Hussein Tirawi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htirawi/leetcode-ds-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/htirawi/leetcode-ds-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
