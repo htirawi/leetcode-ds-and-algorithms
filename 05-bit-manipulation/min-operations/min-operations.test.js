@@ -1,6 +1,6 @@
 const minOperations = require('./min-operations');
 
-test('Findingthe minimum number of operations required to make the bitwise XOR of all elements of the final array equal to k.', () => {
+test('Finding the minimum number of operations required to make the bitwise XOR of all elements of the final array equal to k.', () => {
   const k1 = 1;
   const nums1 = [2, 1, 3, 4];
 
